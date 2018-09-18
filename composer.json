@@ -1,0 +1,16 @@
+{
+    "name": "ouyang/concurrency-for-laravel-migrate",
+    "description": "fenbiao for lava migrate",
+    "authors": [
+        {
+            "name": "ouyang",
+            "email": "1114374850@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ouyang\\Concurrency\\":"src"
+        }
+    },
+}
